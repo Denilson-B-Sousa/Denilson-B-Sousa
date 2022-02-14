@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1> Olá, Seja Bem-vindo(a) ao meu repositório!</h1>
+<hr>
+<h2> Linguagens de programação em Aprendizado</h2>
+   <ul type="square">
+      <li>Java</li>
+      <li>JavaScript</li>
+   </ul>
