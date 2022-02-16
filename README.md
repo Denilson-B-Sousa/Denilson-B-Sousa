@@ -1,19 +1,17 @@
 ### Hi there 👋
 
 <!--
-**Denilson-B-Sousa/Denilson-B-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Denilson-B-Sousa/Denilson-B-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Sobre mim:</h1>
+  <ul>
+   <li> 👨‍🎓 Formação: Técnico em Informática para Internet </li>
+   <li> ☕ Linguagem de programação em estudo: Java </li>
+   <li> 📚 Estudo de Front-end: Html e Css</li>
+   <li> 📚 Banco de dados: Linguagem SQL </li>
+  </ul>
+
 
 <h1> Olá, Seja Bem-vindo(a) ao meu repositório!</h1>
 <hr>
