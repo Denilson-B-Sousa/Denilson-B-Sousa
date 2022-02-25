@@ -16,6 +16,6 @@
 <h2> Linguagens de programação em Aprendizado</h2>
    <ul type="square">
       <li>Java</li>
-      <li>JavaScript</li>
+      <li>JavaScript - Front-end</li>
    </ul>
 
