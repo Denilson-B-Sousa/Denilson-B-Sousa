@@ -6,6 +6,7 @@
 <h1> Olá, Seja Bem-vindo(a) ao meu repositório!</h1>
 
 <h1> Sobre mim:</h1>
+ 
   <ul>
    <li> 👨‍🎓 Formação: Técnico em Informática para Internet </li>
    <li> ☕ Linguagem de programação em estudo: Java </li>
@@ -16,6 +17,6 @@
 <h2> Linguagens de programação em Aprendizado</h2>
    <ul type="square">
       <li>Java</li>
-      <li>JavaScript - Front-end</li>
+      <li>JavaScript</li>
    </ul>
 
