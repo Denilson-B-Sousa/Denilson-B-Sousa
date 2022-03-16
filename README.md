@@ -10,12 +10,10 @@
    <li> 👨‍🎓 Formação: Técnico em Informática para Internet </li>
    <li> ☕ Linguagem de programação em estudo: Java </li>
    <li> 📚 Estudo de Front-end: Html e Css</li>
-   <li> 📚 Banco de dados: Linguagem SQL </li>
   </ul>
 <hr>
 <h2> Linguagens de programação em Aprendizado</h2>
    <ul type="square">
       <li>Java</li>
-      <li>JavaScript</li>
    </ul>
 
