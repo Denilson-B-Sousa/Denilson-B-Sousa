@@ -21,6 +21,7 @@
 <h2>Projetos do Curso: Técnico em informática para Internet </h2>
   <ul>
       <li><a href="#">Projeto Desenvolvimento Site</a></li>
-      <li><a href="#">Projeto Sistema Web completo</a></li>
+      <li><a href="#">Projeto Programação Web</a></li>
       <li><a href="#">Exercícios Básicos linguagem java</a> </li>
+      
   </ul>
