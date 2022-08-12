@@ -22,6 +22,6 @@
   <ul>
       <li><a href="#">Projeto Desenvolvimento Site</a></li>
       <li><a href="#">Projeto Programação Web</a></li>
-      <li><a href="#">Exercícios Básicos linguagem java</a> </li>
+      <li><a href="https://github.com/Denilson-B-Sousa/Java">Exercícios Básicos linguagem java</a> </li>
       
   </ul>
