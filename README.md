@@ -25,7 +25,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42px" height="42px"/>
 </div>
           
-
+<h2>Programas utilizados: Front-End </h2>
+<div style="display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="IDE Visual Studio Code"  width="42px" height="42px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git gerenciador de versões"  width="42px" height="42px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" alt="GIMP Ferramenta edição de imagens"  width="42px" height="42px"/>
+</div>
 
 <hr>
 
@@ -36,3 +41,5 @@
       <li><a href="https://github.com/Denilson-B-Sousa/Java">Exercícios Básicos linguagem java</a> </li>
       
   </ul>
+  
+  <span>Icons by: <a href="https://devicon.dev/">DevIcon.dev</a> </span>
