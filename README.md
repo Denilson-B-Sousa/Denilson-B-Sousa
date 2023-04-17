@@ -14,33 +14,16 @@
 
 <div style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="42px" height="42px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42px" height="42px"/>         
 </div>
  
 <h2>Linguagens & Frameworks Front-end </h2>
 
 <div style="display: inline-block;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="42px" height="42px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42px" height="42px"/>     
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42px" height="42px"/>
-</div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="48px" height="48px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48px" height="48px"/>     
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" height="48px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48px" height="48px"/>
           
-<h2>Programas utilizados: Front-End </h2>
-<div style="display: inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="IDE Visual Studio Code"  width="42px" height="42px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git gerenciador de versões"  width="42px" height="42px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" alt="GIMP Ferramenta edição de imagens"  width="42px" height="42px"/>
 </div>
-
-<hr>
-
-<h2>Projetos do Curso: Técnico em informática para Internet </h2>
-  <ul>
-      <li><a href="#">Projeto Desenvolvimento Site</a></li>
-      <li><a href="#">Projeto Programação Web</a></li>
-      <li><a href="https://github.com/Denilson-B-Sousa/Java">Exercícios Básicos linguagem java</a> </li>
-      <li><a href="https://github.com/Denilson-B-Sousa/Git-Comandos">Comandos GIT </a> </li>
-      
-  </ul>
-  
+ <hr>
   <span>Icons by: <a href="https://devicon.dev/">DevIcon.dev</a> </span>
