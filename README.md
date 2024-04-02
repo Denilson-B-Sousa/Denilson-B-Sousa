@@ -1,9 +1,14 @@
 
 <!--
 **Denilson-B-Sousa/Denilson-B-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1> 🖐🏽Olá, Seja Bem-vindo(a) ao meu Perfil!</h1>
+<h1> 🎈 Olá, Seja Bem-vindo(a) ao meu Perfil!</h1>
 
-<h2>Formação:</h3>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://twitter.com/)
+
+
+<h2>Formação:</h2>
   <ul>
     <li>Bacharelado em Sistemas de Informação - Cursando 2024 - 202? </li>
     <li>Técnico Integrado em Informática para Internet - Concluído 2020 - 2023</li>
