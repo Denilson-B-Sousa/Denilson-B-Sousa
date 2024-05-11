@@ -24,7 +24,7 @@
   <ul>
     <li>HTML5 e CSS3(Tailwind, Sass, Scss, StyledComponentes)</li>
     <li>Javascript e Typescript</li>
-    <li>ReactJS e ReactTS</li>
+    <li>ReactJS</li>
     <li>Aprendendo Angular...</li>
   </ul>
 
