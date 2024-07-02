@@ -3,9 +3,7 @@
 **Denilson-B-Sousa/Denilson-B-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1> 🎈 Olá, Seja Bem-vindo(a) ao meu Perfil!</h1>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](#)
 
 
 <h2>Formação:</h2>
