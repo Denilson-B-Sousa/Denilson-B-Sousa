@@ -8,13 +8,23 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@denilson.b.sousa2023
 )
 
+
 <h2>🎓 Formação:</h2>
   <ul>
     <li>Bacharelado em Sistemas de Informação - Cursando 2024 - 2027 </li>
     <li>Técnico Integrado em Informática para Internet - Concluído 2020 - 2023</li>
   </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denilson-B-Sousa&layout=compact)](https://github.com/Denilson-B-Sousa/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denilson-B-Sousa&layout=compact)](https://github.com/Denilson-B-Sousa/github-readme-stats)
+
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
   
 <h2>🚀 Frontend:</h2> 
@@ -70,15 +80,9 @@
 
   
   <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Denilson-B-Sousa/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+
 
 
   
