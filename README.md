@@ -15,18 +15,6 @@
     <li>Técnico Integrado em Informática para Internet - Concluído 2020 - 2023</li>
   </ul>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denilson-B-Sousa&layout=compact)](https://github.com/Denilson-B-Sousa/github-readme-stats)
-
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-  
 <h2>🚀 Frontend:</h2> 
 <div>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -55,8 +43,17 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-
 </div>
+
+## Projetos
+
+ - [Compass Video Frontend • ReactTS](https://github.com/Denilson-B-Sousa/compass-video-frontend)
+ - [Rescue Center Frontend • HTML, CSS e JS](https://github.com/Denilson-B-Sousa/rescue-center-frontend)
+
+ ## Conhecimentos:
+ - [Readme.so](https://readme.so/editor)
+ - [Figma](https://www.figma.com/pt-br/)
+
 
 <h2>🌩Cloud</h2>
 <div>
@@ -78,13 +75,17 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Denilson-B-Sousa/Denilson-B-Sousa/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
   
   <div align="center">
 </div>
 
-
-
-
-  
 <hr>
 
